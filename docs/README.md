@@ -23,21 +23,20 @@
 ## 技術スタック
 
 ### 言語
-
-得意
+*得意*
 - Dart
 - Kotlin
 - Swift
 - Go
 - Java
 
-業務として経験済み
+*業務として経験済み*
 - Typescript
 - C++
 - PHP
 
 ### フレームワーク・その他
-得意
+*得意*
 - Flutter
 - Firebase
     - Authentication
@@ -53,7 +52,7 @@
 - iOS
 - IntelliJ IDEA
 
-業務として経験済み
+*業務として経験済み*
 - Vue
 - Laravel
 - MySQL
